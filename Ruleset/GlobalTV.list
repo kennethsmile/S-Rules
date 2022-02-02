@@ -54,10 +54,6 @@ DOMAIN,bcbolthboa-a.akamaihd.net
 DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,youboranqs01.com
 
-# > Epicgames
-DOMAIN-KEYWORD,epicgames
-DOMAIN-SUFFIX,helpshift.com
-
 # > Fox+
 USER-AGENT,FOX%20NOW*
 USER-AGENT,FOXPlus*
